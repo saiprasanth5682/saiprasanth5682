@@ -4,12 +4,11 @@
 📍 Chennai, India | ✉️ saiprasanth5682@gmail.com
 
 ## 👨‍💻 About Me
-I’m a passionate Data professional with a Master’s in Data Science and hands-on experience in **SQL, Dashboards, Google Cloud Platform (GCP)**, and building end-to-end machine learning solutions.  
+I’m a data enthusiast with a Master’s in Data Science and experience in building end-to-end solutions with SQL, Dashboards, and Google Cloud Platform (GCP).
 
-Currently working as an **Associate Data Analyst at Techmantu Digital**, I bring analytical skills and programming knowledge to drive insights from data and help businesses make data-driven decisions.  
+Currently, I work as an Associate Data Analyst at Techmantu Digital, where I turn data into actionable insights using tools like BigQuery, Looker Studio, and Cloud Functions.
 
-I believe in **continuous learning** and love applying my skills to solve real-world problems. From **healthcare data modeling** to **cloud analytics**, my projects reflect my journey in the field of data science.
-
+I enjoy solving real-world problems with data, and my projects reflect a strong focus on machine learning, cloud analytics, and modern frameworks like FastAPI, Django REST Framework (DRF), and LangChain.
 
 ## 🚀 My Tech Toolbox
 💻 Languages & Tools  
@@ -22,16 +21,18 @@ I believe in **continuous learning** and love applying my skills to solve real-w
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 
 📊 **Key Skills** 
-- Data Analysis & Visualization  
-- Machine Learning & Deep Learning  
+- Data Analysis & Visualization (Looker Studio, Matplotlib, Seaborn) 
+- Machine Learning & Deep Learning (Scikit-learn, TensorFlow, PyTorch)  
 - Statistical Analysis & Predictive Modeling  
-- Building Dashboards and Reports (Looker Studio, BigQuery)  
-- Cloud-based Data Solutions (GCP)
+- API Development with Django REST Framework & FastAPI
+- Conversational AI with LangChain  
+- Cloud Data Solutions with GCP (BigQuery, Dataflow, Cloud Functions)
 
 
 📈 **Career Journey**
 💼 **Associate Data Analyst** – Techmantu Digital *(Jan 2025 – Present)*  
-- Working with **SQL, GCP (BigQuery, Dataflow, Cloud Functions)** and creating dashboards in **Looker Studio** for digital marketing analytics.  
+- Designing dashboards in Looker Studio & analyzing marketing data.
+- Building cloud pipelines with GCP tools for large-scale analytics.  
 
 💼 **Data Scientist Intern** – TCARE, Inc. *(July 2024 – Sep 2024)*  
 - Contributed to real-time healthcare projects using **Deep Learning & Image Processing**.  
