@@ -4,7 +4,7 @@ A **Data Analyst** passionate about building scalable data solutions with Python
 
 ---
 
-## 💻 Languages & Tools
+## Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![DRF](https://img.shields.io/badge/-DRF-CA4245?logo=django&logoColor=white&style=flat)
@@ -19,20 +19,20 @@ A **Data Analyst** passionate about building scalable data solutions with Python
 
 ---
 
-## 📊 Most Used Languages
+## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiprasanth5682&layout=compact&theme=default)](https://github.com/saiprasanth5682)
 
 ---
 
-## 🌱 What I Do
-- 🔥 Build APIs using **FastAPI** & **Django REST Framework**
-- ☁️ Work with **GCP** (BigQuery, Dataflow, Cloud Functions) for cloud analytics
-- 🤖 Create ML pipelines and RAG-based apps with **LangChain**
-- 📊 Design dashboards using **Looker Studio** for actionable insights
+## What I Do
+- Build APIs using **FastAPI** & **Django REST Framework**
+- Work with **GCP** (BigQuery, Dataflow, Cloud Functions) for cloud analytics
+- Create ML pipelines and RAG-based apps with **LangChain**
+- Design dashboards using **Looker Studio** for actionable insights
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/prasanth-m-443a03283/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/saiprasanth5682)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:saiprasanth5682@gmail.com)
